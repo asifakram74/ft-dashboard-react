@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "inputFields": {
+      "Email": "Email",
+      "Password": "Password"
+    },
+    "errors": {
+      "Email Field is Required": "Email Field is Required",
+      "Maximum of 50 characters are allowed": "Maximum of 50 characters are allowed",
+      "Input a Valid Email Address": "Input a Valid Email Address",
+
+      "Password Field is Required": "Password Field is Required",
+      "There must be Minimum of 4 Characters": "There must be Minimum of 4 Characters",
+      "Maximum of 30 Characters are allowed": "Maximum of 30 Characters are allowed",
+      "Maximum of 20 Characters are allowed": "Maximum of 20 Characters are allowed",
+      "Minimum of 13 Characters are allowed": "Minimum of 13 Characters are allowed",
+
+      "Name Field is Required": "Name Field is Required",
+      "Phone Field is Required": "Phone Field is Required",
+      "Relationship Field is Required": "Relationship Field is Required",
+      "Language Field is Required": "Language Field is Required"
+    },
+    "success": {
+      "Successful!": "Successful!",
+      "Your Password has been changed successfully!": "Your Password has been changed successfully!"
+    },
+    "menu": {
+      "Home": "Home",
+      "Notifications": "Notifications",
+      "Parents": "Parents",
+      "Account": "Account",
+      "Rate Us": "Rate Us",
+      "Help Desk": "Help Desk",
+      "Terms of Use": "Terms of Use",
+      "Privacy Policy": "Privacy Policy",
+      "Data Collections & Use": "Data Collections & Use",
+      "Settings": "Settings",
+      "Help & Feedback": "Help & Feedback",
+      "Logout": "Logout"
+    },
+    "text": {
+      "Hello": "Hello",
+      "Good Morning": "Good Morning",
+      "Good Afternoon": "Good Afternoon",
+      "Good Evening": "Good Evening",
+      "Good Night": "Good Night"
+    }
+  }
+}

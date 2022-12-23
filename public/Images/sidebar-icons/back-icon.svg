@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M0 24C0 10.7452 10.7452 0 24 0s24 10.7452 24 24-10.7452 24-24 24S0 37.2548 0 24z"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="12.048"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0.39215686274509803  0 0 0 0 0.39215686274509803  0 0 0 0 0.39215686274509803  0 0 0 0.2 0"/>
+    </filter>
+  </defs>
+  <g transform="translate(20 20)">
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-2)" xlink:href="#path-1"/>
+      <use fill="rgb(255,255,255)" xlink:href="#path-1"/>
+    </g>
+    <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M27.93786 16.59741c.46344-.46346.46344-1.214894 0-1.678363-.46347-.463465-1.2149-.463465-1.67837 0l-7.911887 7.911893c-.463468.46347-.46347 1.2149-.000001 1.67836l7.911888 7.91193c.46347.4634 1.2149.4634 1.67837 0 .46344-.4635.46344-1.2149 0-1.6784l-7.07271-7.07271 7.07271-7.07271z"/>
+  </g>
+</svg>

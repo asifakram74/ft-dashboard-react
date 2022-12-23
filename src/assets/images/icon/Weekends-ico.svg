@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <path id="path-6" fill-rule="evenodd" d="M14.5 20h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5v-.5c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-7" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-6"/>
+    </mask>
+    <path id="path-8" fill-rule="evenodd" d="M14.5 22.5h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5V23c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-9" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-8"/>
+    </mask>
+    <path id="path-10" fill-rule="evenodd" d="M14.5 25h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5v-.5c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-11" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-10"/>
+    </mask>
+    <path id="path-12" fill-rule="evenodd" d="M19.5 20h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5v-.5c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-13" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-12"/>
+    </mask>
+    <path id="path-14" fill-rule="evenodd" d="M19.5 22.5h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5V23c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-15" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-14"/>
+    </mask>
+    <path id="path-16" fill-rule="evenodd" d="M24.5 20h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5v-.5c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-17" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-16"/>
+    </mask>
+    <path id="path-18" fill-rule="evenodd" d="M24.5 22.5h2c.27595751 0 .5.22404249.5.5v.5c0 .27595751-.22404249.5-.5.5h-2c-.27595751 0-.5-.22404249-.5-.5V23c0-.27595751.22404249-.5.5-.5z"/>
+    <mask id="mask-19" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="40" height="40" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-18"/>
+    </mask>
+  </defs>
+  <g>
+    <ellipse cx="20" cy="20" fill="rgb(227,252,255)" rx="20" ry="20"/>
+    <path fill="rgb(92,195,208)" fill-rule="evenodd" d="M12.8865242 28.72824097h14.2269535c1.72984505-.001894 3.13162232-1.40386391 3.1332798-3.13370896V16.5384369c-.00189399-1.7296772-1.4036026-3.1313858-3.1332798-3.13328075H12.8865242c-1.7296791.00189495-3.13138676 1.40360355-3.1332817 3.13328075v9.05609512c.00165748 1.72984505 1.4034357 3.13181496 3.1332817 3.13370896zM10.698555 16.53843689c.00189304-1.20759678.98037147-2.18607521 2.1879692-2.18796825h14.2269535c1.20759583.00189304 2.18607522.98037147 2.1879673 2.18796825v9.05609512c-.00165557 1.20776367-.98020362 2.18650437-2.1879673 2.18839646H12.8865242c-1.20776463-.0018921-2.18631268-.98063279-2.1879692-2.18839646V16.5384369z"/>
+    <path fill="rgb(92,195,208)" fill-rule="evenodd" d="M24.47691406 14.15625c-.26104084 0-.47265625-.21161541-.47265625-.47265625v-1.93917969c0-.26104084.21161541-.47265625.47265625-.47265625s.47265625.21161541.47265625.47265625v1.93917969c0 .26104084-.2116154.47265625-.47265625.47265625z"/>
+    <path fill="rgb(92,195,208)" fill-rule="evenodd" d="M15.52308594 14.15625c-.26104084 0-.47265625-.21161541-.47265625-.47265625v-1.93917969c0-.26104084.2116154-.47265625.47265625-.47265625.26104084 0 .47265625.21161541.47265625.47265625v1.93917969c0 .26104084-.21161541.47265625-.47265625.47265625z"/>
+    <path fill="rgb(92,195,208)" fill-rule="evenodd" d="M29.77410156 17.80214844H10.22589844c-.26104084 0-.47265625-.21161541-.47265625-.47265625s.2116154-.47265625.47265625-.47265625h19.54820312c.26104084 0 .47265625.2116154.47265625.47265625 0 .26104084-.2116154.47265625-.47265625.47265625z"/>
+    <g>
+      <use fill="rgb(92,195,208)" xlink:href="#path-6"/>
+      <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-7)" xlink:href="#path-6"/>
+    </g>
+    <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-9)" xlink:href="#path-8"/>
+    <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-11)" xlink:href="#path-10"/>
+    <g>
+      <use fill="rgb(92,195,208)" xlink:href="#path-12"/>
+      <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-13)" xlink:href="#path-12"/>
+    </g>
+    <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-15)" xlink:href="#path-14"/>
+    <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-17)" xlink:href="#path-16"/>
+    <use fill-opacity="0" stroke="rgb(92,195,208)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".8" mask="url(#mask-19)" xlink:href="#path-18"/>
+  </g>
+</svg>

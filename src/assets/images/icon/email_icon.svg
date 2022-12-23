@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <path id="path-2" fill-rule="evenodd" d="M8.00728989 11.31451416c.040596-.23532104.24588394-.41452026.49271011-.41452026h15c.24677658 0 .45203781.17913818.49268723.41439819.00480651.02255249.00731277.04580688.00731277.069458v8.3828125c0 .73538209-.59796906 1.33337403-1.33331299 1.33337403H9.33334351C8.59796906 21.10003662 8 20.50204468 8 19.7666626v-8.3828125c0-.0236206.00249863-.04681397.00728989-.06933594zm1.44972992.58547974c2.0052185 1.70233154 4.7152748 4.01257324 5.61229324 4.82077026.55012512.49609375 1.31184387.49609375 1.86068726.00067139.85961532-.77459717 3.36535644-2.91314698 5.61311721-4.82144165H9.45701981z"/>
+    <mask id="mask-3" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="32" height="32" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-2"/>
+    </mask>
+  </defs>
+  <g>
+    <ellipse cx="16" cy="16" fill="rgb(232,248,255)" rx="16" ry="16"/>
+    <use fill-opacity="0" stroke="rgb(0,140,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-3)" xlink:href="#path-2"/>
+  </g>
+</svg>

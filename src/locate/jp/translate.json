@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "inputFields": {
+      "Email": "E-mail",
+      "Password": "Mot de Passe"
+    },
+    "errors": {
+      "Email Field is Required": "Le champ d'e-mail est obligatoire",
+      "Maximum of 50 characters are allowed": "Un maximum de 50 caractères est autorisé",
+      "Input a Valid Email Address": "Saisissez une adresse e-mail valide",
+      "Password Field is Required": "Le champ du mot de passe est obligatoire",
+      "There must be Minimum of 4 Characters": "Il doit y avoir au moins 4 caractères",
+      "Maximum of 30 Characters are allowed": "Un maximum de 30 caractères est autorisé",
+      "Maximum of 20 Characters are allowed": "Un maximum de 20 caractères est autorisé",
+      "Minimum of 13 Characters are allowed": "13文字以上が許可されます",
+
+      "Name Field is Required": "名前フィールドは必須です",
+      "Phone Field is Required": "電話フィールドは必須です",
+      "Relationship Field is Required": "関係フィールドは必須です",
+      "Language Field is Required": "言語フィールドは必須です"
+    },
+    "success": {
+      "Successful!": "成功しました！",
+      "Your Password has been changed successfully!": "パスワードが正常に変更されました！"
+    },
+    "menu": {
+      "Home": "ホームホーム",
+      "Notifications": "通知",
+      "Parents": "親",
+      "Account": "アカウント",
+      "Rate Us": "私たちを評価してください",
+      "Help Desk": "ヘルプデスク",
+      "Terms of Use": "利用規約",
+      "Privacy Policy": "個人情報保護方針",
+      "Data Collections & Use": "データの収集と使用",
+      "Settings": "設定",
+      "Help & Feedback": "ヘルプとフィードバック",
+      "Logout": "ログアウト"
+    },
+    "text": {
+      "Hello": "こんにちは",
+      "Good Morning": "おはようございます",
+      "Good Afternoon": "こんにちは",
+      "Good Evening": "こんばんは",
+      "Good Night": "おやすみなさい"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="48" viewBox="0 0 128 48">
+  <g>
+    <path fill="rgb(255,133,56)" fill-rule="evenodd" d="M24 0h80c13.24596059 0 24 10.75403941 24 24s-10.75403941 24-24 24H24C10.75403941 48 0 37.24596059 0 24S10.75403941 0 24 0z"/>
+    <g>
+      <text font-size="0" style="white-space:pre">
+        <tspan x="53.75" y="33.821" fill="rgb(255,255,255)" font-family="Roboto Medium" font-size="24" font-weight="500" style="white-space:pre;text-transform:none">Save</tspan>
+      </text>
+      <g transform="translate(21.0625 12.125)">
+        <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M0 12C0 5.37258 5.37258 0 12 0c6.6274 0 12 5.37258 12 12 0 6.6274-5.3726 12-12 12-6.62742 0-12-5.3726-12-12z"/>
+        <path fill="none" stroke="rgb(255,133,56)" stroke-dasharray="0 0 0 0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="3" d="M6 10.70455l4.12432 4.35954L18 8.25"/>
+      </g>
+    </g>
+  </g>
+</svg>

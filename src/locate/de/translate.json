@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "inputFields": {
+      "Email": "Email",
+      "Password": "Passwort"
+    },
+    "errors": {
+      "Email Field is Required": "E-Mail-Feld ist erforderlich",
+      "Maximum of 50 characters are allowed": "Maximal 50 Zeichen sind zulässig",
+      "Input a Valid Email Address": "Geben Sie eine gültige E-Mail-Adresse ein",
+
+      "Password Field is Required": "Passwortfeld ist erforderlich",
+      "There must be Minimum of 4 Characters": "Es müssen mindestens 4 Zeichen vorhanden sein",
+      "Maximum of 30 Characters are allowed": "Maximal 30 Zeichen sind erlaubt",
+      "Maximum of 20 Characters are allowed": "Maximal 20 Zeichen sind erlaubt",
+      "Minimum of 13 Characters are allowed": "Es sind mindestens 13 Zeichen zulässig",
+
+      "Name Field is Required": "Namensfeld ist erforderlich",
+      "Phone Field is Required": "Phone Field is Required",
+      "Relationship Field is Required": "Beziehungsfeld ist erforderlich",
+      "Language Field is Required": "Sprachfeld ist erforderlich"
+    },
+    "success": {
+      "Successful!": "Erfolgreich!",
+      "Your Password has been changed successfully!": "Ihr Passwort wurde erfolgreich geändert!"
+    },
+    "menu": {
+      "Home": "Zuhause",
+      "Notifications": "Benachrichtigungen",
+      "Parents": "Eltern",
+      "Account": "Konto",
+      "Rate Us": "Bewerten Sie uns",
+      "Help Desk": "Beratungsstelle",
+      "Terms of Use": "Nutzungsbedingungen",
+      "Privacy Policy": "Datenschutz-Bestimmungen",
+      "Data Collections & Use": "Datenerfassung und-nutzung",
+      "Settings": "die Einstellungen",
+      "Help & Feedback": "Hilfe & Feedback",
+      "Logout": "Ausloggen"
+    },
+    "text": {
+      "Hello": "Hallo",
+      "Good Morning": "Guten Morgen",
+      "Good Afternoon": "Guten Nachmittag",
+      "Good Evening": "Guten Abend",
+      "Good Night": "Gute Nacht"
+    }
+  }
+}

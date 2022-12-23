@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="linearGradient-3" x1="9.031" x2="7.358" y1="8.1" y2="8.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,255,255)"/>
+      <stop offset=".36" stop-color="rgb(237,240,255)"/>
+      <stop offset=".77" stop-color="rgb(243,245,255)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+    <linearGradient id="linearGradient-5" x1="9.031" x2="7.358" y1="8.1" y2="8.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,255,255)"/>
+      <stop offset=".36" stop-color="rgb(237,240,255)"/>
+      <stop offset=".77" stop-color="rgb(243,245,255)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <ellipse cx="8" cy="8" fill="rgb(0,140,255)" rx="8" ry="8"/>
+    <g>
+      <path fill="url(#linearGradient-3)" fill-rule="evenodd" d="M8 3c.53658405 0 .97222222.43563817.97222222.97222222v8.05555556C8.97222222 12.56436183 8.53658405 13 8 13c-.53658405 0-.97222222-.43563817-.97222222-.97222222V3.97222222C7.02777778 3.43563817 7.46341595 3 8 3z"/>
+      <path fill="url(#linearGradient-5)" fill-rule="evenodd" d="M8 3c.53658405 0 .97222222.43563817.97222222.97222222v8.05555556C8.97222222 12.56436183 8.53658405 13 8 13c-.53658405 0-.97222222-.43563817-.97222222-.97222222V3.97222222C7.02777778 3.43563817 7.46341595 3 8 3z" transform="rotate(90.000032 8 8)"/>
+    </g>
+  </g>
+</svg>

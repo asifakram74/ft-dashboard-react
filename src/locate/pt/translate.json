@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "inputFields": {
+      "Email": "O Email",
+      "Password": "Senha"
+    },
+    "errors": {
+      "Email Field is Required": "O campo do email é obrigatório",
+      "Maximum of 50 characters are allowed": "São permitidos no máximo 50 caracteres",
+      "Input a Valid Email Address": "Insira um endereço de e-mail válido",
+      "Password Field is Required": "O campo de senha é obrigatório",
+      "There must be Minimum of 4 Characters": "Deve haver no mínimo 4 caracteres",
+      "Maximum of 30 Characters are allowed": "São permitidos no máximo 30 caracteres",
+      "Maximum of 20 Characters are allowed": "São permitidos no máximo 20 caracteres",
+      "Minimum of 13 Characters are allowed": "São permitidos no mínimo 13 caracteres",
+
+      "Name Field is Required": "O campo do nome é obrigatório",
+      "Phone Field is Required": "O campo do telefone é obrigatório",
+      "Relationship Field is Required": "O campo de relacionamento é obrigatório",
+      "Language Field is Required": "O campo de idioma é obrigatório"
+    },
+    "success": {
+      "Successful!": "Bem-sucedido!",
+      "Your Password has been changed successfully!": "Sua senha foi alterada com sucesso!"
+    },
+    "menu": {
+      "Home": "Casa",
+      "Notifications": "Notificações",
+      "Parents": "Os Pais",
+      "Account": "Conta",
+      "Rate Us": "Nos avalie",
+      "Help Desk": "Central de Ajuda",
+      "Terms of Use": "Termos de uso",
+      "Privacy Policy": "Política de Privacidade",
+      "Data Collections & Use": "Coleta e uso de dados",
+      "Settings": "Definições",
+      "Help & Feedback": "Ajuda e Feedback",
+      "Logout": "Sair"
+    },
+    "text": {
+      "Hello": "Olá",
+      "Good Morning": "Bom Dia",
+      "Good Afternoon": "Boa Tarde",
+      "Good Evening": "Boa Noite",
+      "Good Night": "Boa Noite"
+    }
+  }
+}

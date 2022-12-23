@@ -1,0 +1,1391 @@
+/** @format */
+
+@media only screen and (min-width: 1601px) {
+	.feed-bar:before {
+		width: 1px;
+	}
+}
+@media only screen and (min-width: 1305px) {
+	.row .col.l8.ds_layout {
+		width: 732px;
+		margin: 35px auto;
+		padding: 0;
+	}
+	.home_Notifications .row .col.m2 {
+		width: 48px;
+		padding-bottom: unset !important;
+		margin-right: 10px;
+	}
+	.home_Notifications .col .row {
+		margin: unset;
+		padding: 0;
+	}
+	div.homefeedbar .feed-bar:before {
+		margin-left: 20px;
+	}
+	.homefeedbar .row .col.m10,
+	.home_Notifications .row .col.m10 {
+		width: 91%;
+	}
+	.homefeedbar .card .card-content .row {
+		margin: 0;
+	}
+	.homefeedbar .feed-bar .row.container.d-flex.align-items-center {
+		padding: 0;
+	}
+	.homefeedbar .feed-bar .col.s2.m2.pb-2.right-img,
+	.home_Notifications .row .col.m2 {
+		/* width: 12%; */
+		width: 50px;
+		margin-right: 8px;
+	}
+}
+@media only screen and (max-width: 1304px) {
+	.plans-container .card .card-image .price {
+		font-size: 3rem;
+	}
+	.row #login-page .login-form .email-confirm .email_edit img.edit_text {
+		right: 20px;
+	}
+	.row .col.l8.ds_layout {
+		margin: 15px auto !important;
+		width: 600px;
+	}
+	.plans-container .collection .collection-item {
+		font-size: 14px;
+		line-height: 22px;
+		padding: 0px 10px;
+	}
+	.plans-container .collection .collection-item:before {
+		font-family: "Material Icons";
+		margin-right: 4px;
+	}
+	.plans-container h5 {
+		font-size: 1rem;
+	}
+	.value {
+		top: -3px !important;
+		left: -4px !important;
+		max-width: 60px;
+	}
+	.plans-container .card .card-image .price sup {
+		top: -23px;
+	}
+	.add_profile_top h2 {
+		font-size: 24px;
+	}
+	.add_profile_top {
+		padding: 20px 50px 0px 50px;
+	}
+	.profile_step {
+		margin: 0px auto -20px auto;
+		left: 40%;
+	}
+}
+@media only screen and (min-width: 1100px) {
+	.home-kids-sec .home-mykid span {
+		font-size: 12px;
+		margin-right: 3px;
+		right: 9px;
+	}
+
+	.parent_according .row .col.m2 img {
+		width: 75px;
+	}
+	.parent_according .row .col.m10 {
+		margin-left: 0;
+	}
+	.parent_according .user-detail.invite h5 {
+		margin-top: 0px;
+	}
+	.emptyemail .update_btn {
+		position: unset;
+		width: 100%;
+		margin: 50px 0 0 0;
+	}
+	.invite_parent_image img {
+		margin: 50px auto 26px auto;
+	}
+	.raduse-12 {
+		border-radius: 20px;
+	}
+
+	.home-kids-sec .row .col.m2.l2 {
+		/* width: 10%; */
+		width: 67px;
+		padding-left: 0;
+		padding: 0;
+		text-align: left;
+		margin-left: 0;
+	}
+	.home-kids-sec .row .col.l10 {
+		width: 90%;
+	}
+
+	.collapsible-header .user-detail p img {
+		width: 30px;
+	}
+	/* .notifications .right-img img {
+        width: 56px;
+        height: 56px;
+      } */
+	.notifications .row .col.m10 {
+		margin-left: 0;
+	}
+	.notifications .user-detail.invite h5 {
+		font-size: 14px;
+	}
+	.notifications h6 {
+		font-size: 12px;
+	}
+	.notifications.mb-3 {
+		margin-bottom: 0% !important;
+	}
+
+	.notifications .pb-3 {
+		padding-bottom: 2% !important;
+	}
+
+	.home_notification_btm p span {
+		padding: 13px 20px;
+		font-size: 15px;
+	}
+	.home_notification_btm .collapsible-header .user-detail p img {
+		width: 20px;
+	}
+	.desktop-right {
+		position: absolute;
+		right: 3% !important;
+	}
+	.nfbody {
+		padding-bottom: 20px;
+	}
+	.nfbody .pb-10 {
+		padding-bottom: 5% !important;
+	}
+	.internet_filter_list img {
+		height: 65px !important;
+	}
+}
+@media only screen and (min-width: 991px) {
+	/* .nav-wrapper {
+		margin-top: 0px;
+	} */
+	.row #login-page .col.login-card {
+		/* width: 28%; */
+		/* width: 440px; */
+		width: 472px;
+	}
+	li.head_nav {
+		display: none;
+	}
+	#main {
+		padding-left: 251px;
+		display: flex;
+	}
+	.nav_icon {
+		display: none;
+	}
+	.top_title {
+		display: none;
+	}
+	/* .head_nav{
+        display: none;
+      } */
+}
+@media only screen and (max-width: 990px) {
+	.MuiPaper-elevation4 {
+		box-shadow: none !important;
+	}
+	nav .nav-wrapper {
+		background: #fafafa;
+	}
+	.navbar .page_title h4 {
+		font-size: 30px;
+		margin-top: 0px;
+		padding: 5px 0px;
+		white-space: nowrap;
+	}
+	#header .page_title {
+		margin: 10px auto 0 40% !important;
+		width: calc(100% - 600px);
+		height: 40px;
+		display: inline-block;
+		position: relative;
+		-webkit-transition: 0.3s ease all;
+		-o-transition: 0.3s ease all;
+		-moz-transition: 0.3s ease all;
+		transition: 0.3s ease all;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}
+	.PrivateHiddenCss-xsDown-11 {
+		display: none;
+	}
+	.body_row {
+		margin: 0 auto;
+		display: flex;
+	}
+	.row .col.l8.ds_layout {
+		width: 90%;
+	}
+	.body_row .col.s12.m2.l2 {
+		display: none;
+	}
+	.body_row .col.s12.m2.l2.image-avater {
+		display: block;
+	}
+	.user-detail {
+		margin-left: 0px !important;
+	}
+	.hide-on-med-and-down {
+		display: none !important;
+	}
+	.brand-sidebar .brand-logo {
+		left: 0%;
+		-webkit-transform: translateX(-20%);
+		-ms-transform: translateX(-20%);
+		transform: translateX(-20%);
+	}
+	.row #login-page .login-form .email-confirm .email_edit img.edit_text {
+		right: 10px;
+	}
+	.home-kids-sec .row .col.m2.l2 {
+		text-align: left;
+		width: 68px;
+	}
+
+	.login-bg {
+		background-size: cover;
+	}
+	.mylogo-area {
+		width: 260px;
+	}
+	header .family-logo {
+		padding: 13px 16px 13px 70px;
+	}
+	.premium_card .card-content span.card-title {
+		font-size: 18px;
+		line-height: 12px;
+	}
+	.premium_card p {
+		font-size: 13px;
+	}
+	.login_ul {
+		margin-top: 33px;
+		display: flex;
+		align-items: center;
+		position: absolute;
+		transform-origin: center;
+		margin: 33px 0;
+		justify-content: center;
+		left: 0;
+		right: 0;
+		text-align: center;
+	}
+	.page-topbar.navbar.navbar-fixed .logo-wrapper,
+	.page-topbar.navbar.navbar-fixed .profile_main,
+	.page-topbar.navbar.navbar-fixed .dropdown-language {
+		display: none;
+	}
+	.home-kids-sec .imgicon {
+		right: 7px;
+	}
+}
+@media (max-width: 800px) {
+	.nav_icon {
+		display: block;
+	}
+	.row .col.l8.ds_layout {
+		width: 100%;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.homefeedbar .feed-bar:before {
+		/* margin-left: 5.5%; */
+		margin-left: 40px;
+		/* margin-left: 80px; */
+	}
+
+	.right-img img {
+		width: 48px;
+	}
+	.row #login-page .col.login-card {
+		/* width: 50%; */
+		width: 363px;
+	}
+
+	/* 
+          .home_Notifications .row .col.m2 {
+            width: 12%;
+            width: 30px;
+          } */
+	.home_Notifications .row {
+		margin: 0;
+	}
+	.home-kids-sec .row .col.l2 {
+		width: 65px;
+		padding-left: 0;
+		text-align: left;
+		margin-left: 0;
+	}
+	.homefeedbar .feed-bar:before {
+		margin-left: 26px;
+	}
+	.homefeedbar .row .col.m10 {
+		margin: 0;
+	}
+	.home-kids-sec .row .col.l2 {
+		width: 10%;
+		padding-left: 0;
+		text-align: left;
+		margin-left: 0;
+	}
+	.home-kids-sec .row .col.l10 {
+		width: 90%;
+	}
+	.home-kids-sec .row .col.s12.m12 {
+		padding: 0px;
+	}
+	.home-kids-sec li.home-mykid.mb-1 {
+		margin-bottom: 3% !important;
+	}
+	.home-mykid .user-detail.invite h5 {
+		margin-bottom: 0px !important;
+	}
+	.home-mykid .invite_arrow_right img {
+		width: 11px;
+	}
+	.home-mykid .invite_arrow_right {
+		right: 3px;
+		text-align: right;
+	}
+	.home-mykid span {
+		font-size: 10px;
+		display: inline-flex;
+		align-items: center;
+	}
+}
+@media only screen and (max-width: 780px) {
+	.home-mykid .user-detail.invite h5 {
+		margin-bottom: 10px !important;
+		margin-top: 0px;
+		line-height: 24px;
+		font-size: 16px;
+		/* padding-bottom: 12.5px !important; */
+	}
+	/* span.my_bagge.new {
+		
+		font-size: 12px;
+		margin: 10px 0 0 0 !important;
+	} */
+	/* .controls-icon img {
+		 eight: 66px;
+		width: 66px;
+		display: block;  
+	} */
+
+	/* .account-setting .card-content .user-detail h5 {
+		font-size: 16px;
+		line-height: 18px;
+	} */
+	/* .account-setting .card-content .user-detail p {
+		font-size: 14px;
+		line-height: 10px;
+	} */
+	.notifications .single_notification .notification_date {
+		display: none;
+	}
+	.notifications .single_notification h5 a {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	.notifications .single_notification h6 a {
+		font-size: 16px;
+	}
+	.home-mykid .user-detail.invite {
+		padding-right: 0;
+	}
+	.notification-single .user-detail.invite h5 a {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	.notification-single .user-detail.invite p a {
+		color: #aeaeae;
+		font-family: "Roboto", sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		text-align: right;
+	}
+	.notification-single .user-detail.invite h6 a {
+		font-size: 16px;
+		line-height: 23px;
+	}
+	.read-more {
+		font-size: 15px;
+		line-height: 22px;
+	}
+	.title-notification {
+		width: 100%;
+	}
+	.account-setting .card-content .user-detail {
+		padding-left: 5px !important;
+	}
+}
+@media only screen and (min-width: 601px) {
+	.sweet-alert {
+		width: 428px !important;
+		/* margin-left: -206px !important; */
+		padding: 0px !important;
+	}
+	.home_Notifications .card .card-content .row {
+		margin: 0;
+		padding: 0;
+	}
+	.homefeedbar .feed-bar .col.s2.m2.pb-2.right-img,
+	.home_Notifications .row .col.m2 {
+		width: 51px;
+		text-align: left;
+	}
+	.parent_according .row .col.m2 {
+		margin-left: 0;
+	}
+	.row .col.m9.l10.user-detail {
+		width: 84%;
+	}
+	.row #login-page .col.login-card {
+		/* width: 70%; */
+		/* width: 363px; */
+		width: 472px;
+	}
+
+	.feed-bar:before {
+		/* margin-left: 6.5%; */
+		margin-left: 28px;
+	}
+	.right-img img {
+		width: 40px;
+		height: 40px;
+	}
+	.homefeedbar .feed-bar .col.s2.m2.pb-2.right-img,
+	.home_Notifications .row .col.m2 {
+		/* width: 12%; */
+		width: 50px;
+		margin-right: 10px;
+		text-align: left;
+		padding-bottom: 5px !important;
+	}
+	.homefeedbar .row .col.m10,
+	.home_Notifications .row .col.m10 {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		padding-bottom: 5px !important;
+	}
+}
+@media only screen and (max-width: 600px) {
+	/* CAll history */
+
+	.callhistory .dl-flex .dl-flex.incoming h5 {
+		color: #008cff;
+	}
+	.callhistory .dl-flex .dl-flex.outgoing h5 {
+		color: #00da87;
+	}
+	.callhistory .dl-flex .dl-flex.missing h5 {
+		color: #fdba45;
+	}
+	.appusage.callhistory .dl-flex .dl-flex h2 {
+		font-size: 16px;
+		line-height: 28px;
+		text-align: center;
+	}
+	.dl-flex.titlewithicon h5,
+	.dl-flex.titlewithicon h5 span {
+		font-size: 24px;
+	}
+
+	/* App Blocker */
+	.appblocker h5 {
+		font-size: 16px;
+	}
+	.appblocker h3 {
+		font-size: 14px;
+	}
+
+	.appblocker .allapps .listitem span.MuiListItemText-primary {
+		font-size: 16px;
+	}
+	.appblocker .allapps .col.s12.m12.l12.text-center img {
+		width: 40px;
+		height: 40px;
+	}
+	.appblocker .allapps .listitem .MuiListItemAvatar-root {
+		min-width: 60px;
+	}
+	.dl-flex.titlewithicon .MuiSvgIcon-root {
+		height: 30px;
+		width: 30px;
+	}
+	/* Contact Watch List */
+	.contact-watchlist h5 {
+		font-size: 16px;
+		line-height: 21px;
+	}
+	.contact-watchlist h5 span {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.listitem span.MuiListItemText-primary {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.listitem .MuiTypography-colorTextSecondary,
+	.listitem .MuiTypography-colorTextSecondary .MuiTypography-body1 {
+		font-size: 12px !important;
+		line-height: 16px;
+	}
+	.contact-watchlist .checkbox-mui .MuiSvgIcon-root {
+		width: 24px;
+		height: 24px;
+	}
+	.contact-watchlist .listitem .MuiListItemAvatar-root {
+		margin-top: -10px;
+	}
+	/* Contacts Page  */
+	.contacts.newschedule .col.s12.m12.l12.text-center .dl-flex img {
+		margin-top: 0;
+	}
+	.contacts.newschedule .card .dl-flex h2 {
+		font-size: 21px;
+		line-height: 28px;
+	}
+	.search-container button {
+		font-size: 14px;
+	}
+	.contacts.newschedule .MuiListItemText-primary {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.contacts.newschedule .MuiTypography-colorTextSecondary,
+	.contacts.newschedule .MuiTypography-colorTextSecondary .MuiTypography-body1 {
+		font-size: 10px;
+		line-height: 13px;
+		color: #8e8e8e;
+	}
+	.contacts.newschedule .MuiListItemSecondaryAction-root p {
+		font-size: 10px;
+		line-height: 13px;
+	}
+	/* Installed App */
+	.installedapps .card .card-content {
+		padding: 16px;
+	}
+	.installedapps .applist p {
+		/* font-weight: 500; */
+		font-size: 12px;
+	}
+	.installedapps .MuiTab-wrapper {
+		font-size: 14px;
+	}
+	.newschedule .MuiTypography-colorTextSecondary {
+		font-size: 14px;
+	}
+
+	.newschedule .MuiListItemText-primary {
+		font-size: 17px;
+	}
+	.installedapps .applist .MuiListItemSecondaryAction-root {
+		top: 61%;
+	}
+	/* App usage */
+
+	.appusage .dl-flex .dl-flex h2 {
+		color: #292929;
+		font-family: "Roboto";
+		font-size: 18px;
+		line-height: 37px;
+	}
+	.appusage .dl-flex .dl-flex h5 {
+		color: #a2a2a2;
+		font-family: "Roboto";
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.appusage .dl-flex .dl-flex {
+		align-items: flex-start;
+		width: 48%;
+		justify-content: flex-start;
+		background: #fafbff;
+		padding: 16px 12px;
+		border-radius: 16px;
+	}
+	/* Device Passcode  */
+	.devicepasscode p {
+		color: #828282;
+		font-size: 16px;
+		line-height: 24px;
+		text-align: center;
+	}
+	/* Internet Schedule */
+	.schedulescreentime .card .card-content {
+		padding: 16px;
+	}
+	.schedulescreentime .MuiCardHeader-avatar img {
+		width: 32px;
+	}
+	.schedulescreentime .MuiTypography-displayBlock {
+		text-align: left;
+		color: #333;
+		font-family: "Roboto Medium";
+		font-size: 16px;
+		line-height: 28px;
+	}
+
+	.schedulescreentime h5 {
+		color: #292929;
+		font-family: "Roboto Medium";
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.schedulescreentime h2 {
+		color: #292929;
+		font-family: "Roboto Medium";
+		font-size: 30px;
+		line-height: 56px;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.schedulescreentime ul.weekend-list {
+		margin-top: 12px;
+	}
+	.schedulescreentime .MuiCardHeader-root {
+		padding: 0;
+		margin-bottom: 0;
+	}
+	.schedulescreentime ul.weekend-list li {
+		font-size: 12px;
+		text-transform: uppercase;
+		font-weight: bold;
+		letter-spacing: 1.6px;
+		border-radius: 8px;
+		text-align: center;
+		width: 32px;
+		height: 33px;
+		min-width: 32px;
+		align-items: center;
+		margin-right: 12px;
+		display: flex;
+		justify-content: center;
+	}
+	.child-header .MuiTab-root {
+		min-width: 77px;
+		box-sizing: border-box;
+		min-height: 32px;
+	}
+	.child-header .MuiTab-textColorInherit span.MuiTab-wrapper,
+	.child-header .MuiTab-textColorInherit.Mui-selected span.MuiTab-wrapper {
+		font-size: 14px;
+	}
+	.child-header .kids_bottom span {
+		display: flex;
+		align-items: center;
+		font-size: 7px;
+		margin: 0 7px;
+	}
+	.child-header .MuiTabs-flexContainer {
+		display: flex;
+		justify-content: space-between;
+		/* position: absolute;
+		bottom: 0; */
+	}
+	.childsummery img.topicon {
+		height: 32px;
+		width: 32px;
+	}
+	.childsummery .bg {
+		padding: 12px;
+		margin: 6px 5px;
+	}
+
+	.childsummery .MuiListItemText-primary {
+		color: #333;
+		margin-bottom: 0;
+		margin-top: 0px;
+		font-size: 24px;
+		line-height: 32px;
+	}
+	.childsummery .MuiListItemText-secondary {
+		color: #a2a2a2;
+		font-size: 12px;
+		line-height: 18px;
+	}
+	.deviceinfo .infocard {
+		padding: 10px;
+		margin: 5px 5px;
+	}
+	.internetfilter h5 {
+		font-size: 18px;
+	}
+	.internetfilter
+		.MuiGrid-root.MuiGrid-container.MuiGrid-align-items-xs-center {
+		justify-content: space-between;
+	}
+	.internetfilter .list-mui .MuiListItemAvatar-root {
+		min-width: 70px;
+	}
+	.internetfilter .list-mui span {
+		font-size: 18px;
+		font-weight: 500;
+	}
+	.internetfilter .list-mui p {
+		color: #686868;
+		font-size: 12px;
+		margin-bottom: 10px;
+		width: 86%;
+	}
+	.internetfilter .list-mui .MuiListItemSecondaryAction-root {
+		right: 0;
+	}
+	.internetfilter .card .card-content {
+		padding: 20px 16px;
+	}
+
+	.account-setting input[type="text"]:not(.browser-default),
+	.account-setting input[type="email"]:not(.browser-default),
+	.account-setting input[type="time"]:not(.browser-default),
+	.account-setting input[type="date"]:not(.browser-default),
+	.account-setting input[type="datetime"]:not(.browser-default),
+	.account-setting input[type="datetime-local"]:not(.browser-default),
+	.account-setting input[type="tel"]:not(.browser-default),
+	.account-setting input[type="number"]:not(.browser-default),
+	.account-setting input[type="search"]:not(.browser-default),
+	.account-setting textarea.materialize-textarea {
+		font-size: 16px;
+		height: 3.3rem;
+		color: #333;
+	}
+	.parent_account_form .MuiSelect-select.MuiSelect-select {
+	}
+	.col.s3.m2.l2.image-avater .kidsdevice p {
+		color: #333;
+		font-family: "Roboto";
+		font-size: 14px;
+		line-height: 32px;
+		margin: 0;
+		text-align: center;
+	}
+
+	.kidsdevice h3 {
+		color: #292929;
+		font-family: "Roboto";
+		font-weight: bold;
+		font-size: 24px;
+		line-height: 40px;
+		text-align: center;
+		margin-bottom: 0;
+	}
+	.card .card-content .MuiInputLabel-formControl {
+		font-size: 16px;
+	}
+	.invite_parent_page input[type="text"]:not(.browser-default),
+	.invite_parent_page input[type="email"]:not(.browser-default) {
+		font-size: 16px;
+	}
+	/* Parent Page */
+	.parents_card .MuiAccordionSummary-root {
+		padding: 13px 24px;
+	}
+	.parents_card .MuiListItem-root .MuiListItemAvatar-root img {
+		width: 56px;
+		height: 56px;
+	}
+
+	.parents_card .MuiListItem-root .MuiListItemAvatar-root {
+		margin-right: 16px;
+	}
+	.parents_card span.MuiTypography-root.MuiListItemText-primary {
+		font-size: 16px;
+		line-height: 16px;
+		width: 100%;
+		height: 16px;
+		overflow: hidden;
+		font-weight: 500;
+		margin-bottom: 5px;
+	}
+	.custom-checkbox-root .MuiSvgIcon-root {
+		width: 35px;
+		height: 35px;
+	}
+	.parents_card .forget_me_btn {
+		margin-right: 10px;
+	}
+	.parents_card .forget_me_btn,
+	.parents_card .update_btn {
+		width: 200px;
+		height: 50px;
+		font-size: 16px !important;
+		font-weight: 700 !important;
+		margin-top: 0px;
+	}
+	.parents_card .MuiAccordionActions-root {
+		padding: 0 24px;
+	}
+	.parents_card .MuiAccordionDetails-root {
+		padding: 8px 24px 16px;
+	}
+	.parents_card .MuiTypography-colorTextSecondary p {
+		font-size: 14px;
+		width: 100%;
+		overflow: hidden;
+		height: 22px;
+	}
+	.parents_card .MuiIconButton-label {
+		/* position: absolute; */
+		right: 6px;
+	}
+	.parents_card .MuiListItem-root .MuiListItemText-multiline {
+		max-width: 70%;
+		overflow-wrap: break-word;
+	}
+	.invite_parent_page.card .card-content {
+		padding: 24px;
+	}
+	.invite_parent_image.inner img {
+		width: 130px;
+	}
+	.invite_parent_image p {
+		font-size: 16px;
+		width: 90%;
+	}
+	.setupkids.MuiPaper-root.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded {
+		margin-bottom: 20px;
+	}
+	.feed-bar:before {
+		/* margin-left: 8%; */
+		margin-left: 26px;
+	}
+	.homefeedbar .feed-bar .col.s2.m2.pb-2.right-img,
+	.home_Notifications .row .col.m2 {
+		/* width: 17%; */
+		width: 52px;
+		padding-left: 0;
+		text-align: left;
+		margin-left: 0;
+		/* margin-right: 5px; */
+	}
+	button.MuiButton-text.update_btn {
+		font-size: 18px;
+	}
+	button.MuiButton-text.update_btn img {
+		margin-left: 10px;
+	}
+	.login-bg {
+		background-image: url(../images/icon/login_bg_tab.svg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.homefeedbar .feed-bar .row .col.l10,
+	.home_Notifications .row .col.m10 {
+		width: 100%;
+		padding-left: 0;
+		text-align: left;
+		margin-left: 0;
+		display: flex;
+		align-items: center;
+	}
+	.card .card-content .user-detail.invite h5 {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	/* .home_Notifications .row,
+        .homefeedbar .row {
+          margin: 0;
+        } */
+	.right-img img {
+		padding-right: 2px;
+	}
+	.sidenav.sidenav-fixed {
+		overflow: unset;
+	}
+	.MuiAppBar-colorPrimary {
+		display: flex;
+	}
+	.row #login-page .col.login-card {
+		/* width: 80.66667%; */
+		width: 363px;
+	}
+	.kids_bottom {
+		display: block;
+	}
+	.home-mykid span img {
+		width: 10px;
+	}
+	/* .top_title {
+          width: 24%;
+        } */
+	.home-kids-sec .row .col.m2.l2 {
+		text-align: center;
+	}
+	.controls-icon img {
+		height: 49px;
+		width: 49px;
+		display: block;
+	}
+	.home_welcome h3 {
+		font-size: 14px;
+		line-height: 14px;
+	}
+	.home_welcome p {
+		font-size: 14px;
+	}
+	.home_welcome {
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: left;
+	}
+	.row #login-page .login-form .row .input-field input {
+		width: 84%;
+	}
+
+	/* .row .col.s12.l8.ds_layout {
+    width: 100%;
+  } */
+
+	.confirm_email p {
+		margin-bottom: 0;
+	}
+	.ds_layout .home_welcome h2 {
+		font-size: 24px;
+		font-weight: 700;
+		line-height: 33px;
+	}
+	.row #login-page .login-form .email-confirm .email_edit img.edit_text {
+		/* right: 3%; */
+		right: 17px !important;
+		top: 34px;
+	}
+	.email-confirm .row .input-field.col label {
+		left: 5px;
+	}
+
+	.container.my {
+		padding: 0 30px;
+		text-align: center;
+	}
+	.input-field.col label {
+		left: 0.7rem;
+	}
+	/* .vertical-layout.login-bg {
+      background-size: auto;
+    } */
+	.card {
+		margin: 1rem 0 1rem 0;
+	}
+	.splashright h1 {
+		font-size: 30px;
+		margin-bottom: 20px;
+		line-height: 36px;
+	}
+	.splashright {
+		margin-top: 10px;
+	}
+	.button.store img {
+		width: 124px;
+	}
+	.splashleftimg {
+		max-width: 70%;
+	}
+	.button.store {
+		padding: 0px 5px;
+	}
+	.splashright p {
+		padding: 0 0px;
+	}
+	.splash_logo img {
+		width: 136px !important;
+		margin-top: 5px;
+	}
+	.button.store {
+		margin-right: 5px !important;
+	}
+	.stors_btn {
+		margin-top: 30px;
+		text-align: center;
+	}
+	.mylogo-area {
+		height: 56px;
+	}
+	header .family-logo {
+		padding: 9px 16px;
+	}
+	#content .header-search-wrapper {
+		display: none;
+	}
+	.my_device_info .card-panel {
+		padding-left: 5px;
+		padding-right: 5px;
+		padding: 10px 3px;
+	}
+	.my_device_info .card-panel .flight-info p.small {
+		font-size: 15px !important;
+		margin: 0px 0 5px 0 !important;
+	}
+	.my_device_info .card-panel .flight-info p.small.title-device {
+		font-weight: 300 !important;
+		margin: 0 0 0px 0 !important;
+		font-size: 11px !important;
+	}
+	.device_pin {
+		font-size: 30px !important;
+	}
+	.device_info .tab a i {
+		font-size: 26px;
+		margin: 10px 0 0px 0;
+	}
+	.device_info .tab a span {
+		font-size: 14px;
+	}
+	.my_device_info .card-panel i {
+		margin: 5px 0 0 0;
+	}
+	.device_info form input {
+		margin: 0 0 0 25% !important;
+		width: 75% !important;
+	}
+	.device_info form label {
+		font-size: 13px;
+		width: 20%;
+		line-height: 18px !important;
+	}
+	.mylogo-area {
+		width: 100%;
+	}
+	.mylogo-area.splash {
+		width: 50%;
+	}
+	.container.page_main {
+		margin: 30px 0 0 0;
+	}
+	.sidebar-collapse {
+		top: -80px;
+	}
+	nav .brand-logo {
+		left: 50%;
+	}
+	.page_title {
+		display: block;
+		clear: both;
+		background-color: white;
+		border-bottom: solid 1px #dedede;
+	}
+	.app_usage_date .select-wrapper {
+		float: left;
+		margin: 0 30px 0 20px;
+	}
+	.app_usage_date h5 {
+		float: left;
+		margin: -2px 0 0 30px;
+	}
+	.app_usage .progress {
+		max-width: 76%;
+	}
+	.app_usage_head h2 {
+		margin: 5px 0 0 25px;
+		font-size: 44px;
+	}
+	/*Dashboard css*/
+	.card_icon_left img {
+		max-width: 26px !important;
+	}
+	.card_icon_left .card-title {
+		font-size: 14px !important;
+		margin: 0 0 0 2px !important;
+	}
+	.card .card-content {
+		padding: 24px;
+	}
+	.card_middle_content .GaugeMeter {
+		margin: -90px auto 0 auto;
+	}
+	.active_btn i {
+		background-size: 26px;
+		width: 26px;
+		height: 26px;
+	}
+	.card_bottom_content {
+		width: 28px;
+		height: 28px;
+		left: 10px;
+		bottom: 15px;
+	}
+	.card_btn_01 a.text-grey,
+	.card_btn_01.paused a.btn-input,
+	.card_btn_01.upgrade a.btn-input {
+		font-size: 16px;
+		margin: 0 0 0 0px;
+	}
+	.card-item {
+		padding: 10px 5px;
+	}
+	.card_btn_01.paused a.btn-input,
+	.card_btn_01.upgrade a.btn-input {
+		margin: 0 0 0 0px;
+	}
+	.my_floting_btn {
+		-moz-transform: scale(0.75);
+		-o-transform: scale(0.75);
+		-webkit-transform: scale(0.75);
+		transform: scale(0.75);
+		text-align: center;
+	}
+	a.my_floting_btn {
+		margin: 0px -4px 0 0px !important;
+	}
+	.card_middle_content {
+		-moz-transform: scale(0.75);
+		-o-transform: scale(0.75);
+		-webkit-transform: scale(0.75);
+		transform: scale(0.75);
+		text-align: center;
+	}
+	.mycard_content {
+		height: 170px;
+	}
+	.profile-card .card-image {
+		height: 172px !important;
+	}
+	.how_active_main {
+		margin: -60px 0 0 0;
+	}
+	/*Dashboard css*/
+	.add_profile_top h2 {
+		font-size: 28px;
+	}
+	.navbar .page_title h4 {
+		font-size: 30px;
+		margin-top: 0px;
+		padding: 5px 0px;
+		white-space: nowrap;
+	}
+	#header .page_title {
+		margin: 10px auto 0 40% !important;
+		width: calc(100% - 600px);
+		height: 40px;
+		display: inline-block;
+		position: relative;
+		-webkit-transition: 0.3s ease all;
+		-o-transition: 0.3s ease all;
+		-moz-transition: 0.3s ease all;
+		transition: 0.3s ease all;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}
+	.login-form {
+		width: 98%;
+	}
+	.home-mykid span {
+		font-size: 10px;
+		display: inline-flex;
+		align-items: center;
+		margin-right: 5px;
+	}
+	.home-kids-sec .avarter-icon img {
+		width: 48px;
+	}
+	.homefeedbar .notifications .align-items-center .user-detail.invite {
+		display: flex;
+		align-items: center;
+		width: 100%;
+	}
+
+	.row .col.l8.ds_layout {
+		margin: 15px auto !important;
+	}
+	.home-kids-sec .imgicon {
+		position: absolute;
+		right: -8px;
+		top: 2px;
+	}
+	.home-kids-sec .row .col.l2 {
+		/* width: 17%; */
+		width: 55px;
+		padding-left: 0;
+		text-align: left;
+		margin-left: 0;
+		margin-right: 5px;
+	}
+	.home-kids-sec button {
+		background: transparent;
+		border: transparent;
+	}
+	.home-kids-sec .row .col.l10 {
+		width: 100%;
+	}
+	.home-kids-sec .row .col.s12.m12 {
+		padding: 0px;
+	}
+	.home-kids-sec li.home-mykid.mb-1 {
+		margin-bottom: 3% !important;
+	}
+	.home-mykid .user-detail.invite h5 {
+		margin-bottom: 0px !important;
+		line-height: 20px;
+		/* font-weight: 400; */
+	}
+	.home-mykid .invite_arrow_right img {
+		width: 11px;
+	}
+	.home-mykid .invite_arrow_right {
+		right: 0px;
+		text-align: right;
+		top: 7px;
+	}
+	.home-main .card .card-content {
+	}
+	/* .login-bg .my_login .login-form .row .input-field input {
+      border-bottom: 2px solid #008cff !important;
+      color: #2f2f2f;
+    } */
+}
+@media only screen and (max-width: 500px) {
+	.sweet-alert.sweet_alert div:first-child {
+		width: 100% !important;
+		background-size: 84% !important;
+		background-position: center !important;
+		margin: 0 auto !important;
+		padding: 81px 0;
+		margin-top: 2% !important;
+	}
+	.sweet-alert h2 {
+		font-size: 26px !important;
+		font-weight: 500 !important;
+		margin-top: 5% !important;
+	}
+	.sweet-alert p {
+		text-align: center !important;
+		padding: 0 15px;
+		flex-wrap: nowrap !important;
+
+		margin: 0 auto !important;
+		max-width: 370px;
+	}
+	.setupkids_bg p {
+		font-size: 18px;
+		line-height: 24px;
+		padding: 0 25px;
+	}
+	.setupkids_bg h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.emtynotifi .invite_parent_image p {
+		font-size: 14px;
+		/* padding-bottom: 70px; */
+	}
+	.setupkids .MuiList-root.MuiList-padding {
+		padding: 12px;
+		padding-bottom: 10px;
+	}
+	.setupkids .MuiListItem-gutters {
+		padding-right: 0;
+		align-items: flex-start;
+		padding-bottom: 5px;
+	}
+	.setupkids .MuiAvatar-root {
+		height: unset;
+		width: unset;
+		margin-top: 5px;
+	}
+	.setupkids .MuiAvatar-root img {
+		height: 40px;
+		width: 40px;
+	}
+	.setupkids .MuiTypography-body1 {
+		color: #292929;
+		font-family: "Roboto";
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.setupkids .MuiTypography-body2 {
+		color: #292929;
+		font-family: "Roboto";
+		font-size: 14px;
+		line-height: 21px;
+	}
+	.setupkids .update_btn {
+		font-size: 20px;
+	}
+}
+@media only screen and (max-width: 400px) {
+	a.loginbtn.white-text {
+		font-size: 12px;
+		padding: 0 10px;
+	}
+	header .family-logo img {
+		width: 160px;
+	}
+	.home-kids-sec .user-detail.invite span {
+		margin-right: 5px;
+	}
+	.home-kids-sec .imgicon {
+		position: absolute;
+		right: -8px;
+		top: 0px;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.forget_me_btn {
+		margin-bottom: 40px;
+	}
+	.setting_list .secondary-content {
+		right: -5px !important;
+	}
+}
+@media only screen and (max-width: 360px) {
+	.add_profile_top h2 {
+		font-size: 20px;
+	}
+	.add_profile_top .p1 {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.profile_step {
+		margin: 0px auto -8px auto;
+		left: 35%;
+	}
+}
+@media only screen and (max-width: 330px) {
+	.main-title.row .col.s4.m6.l6.right-align {
+		margin: 0;
+		padding-left: 0;
+	}
+
+	.home-kids-sec .imgicon {
+		right: -4px;
+	}
+	.home-kids-sec .imgicon img {
+		width: 9px !important;
+	}
+}
+@media only screen and (max-width: 290px) {
+	.row #login-page .col.login-card {
+		width: 97%;
+	}
+}
+@media only screen and (max-width: 990px) and (min-width: 300px) {
+	.MuiDrawer-paperAnchorDockedLeft {
+		display: none !important;
+	}
+}
+@media only screen and (max-width: 1099px) and (min-width: 990px) {
+	.home-kids-sec .imgicon {
+		position: absolute;
+		right: 2px;
+		top: 0px;
+	}
+}

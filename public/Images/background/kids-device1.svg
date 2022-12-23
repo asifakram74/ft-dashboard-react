@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="270" viewBox="0 0 375 270">
+  <defs>
+    <linearGradient id="linearGradient-2" x1="116.25" x2="360" y1="256.5" y2="5.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,133,56)"/>
+      <stop offset="1" stop-color="rgb(253,186,69)"/>
+    </linearGradient>
+    <rect id="rect-3" width="375" height="270" x="0" y="0"/>
+    <path id="path-4" fill-rule="evenodd" d="M0 24C0 10.745166 10.745166 0 24 0h327c13.254834 0 24 10.745166 24 24v246H0V24z"/>
+    <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="375" height="270" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-4"/>
+    </mask>
+  </defs>
+  <g>
+    <path fill="url(#linearGradient-2)" fill-rule="evenodd" d="M0 24C0 10.745166 10.745166 0 24 0h327c13.254834 0 24 10.745166 24 24v246H0V24z" transform="matrix(1 0 0 -1 0 270)"/>
+    <g>
+      <use fill="none" transform="matrix(1 0 0 -1 0 270)" xlink:href="#path-4"/>
+      <g mask="url(#mask-5)" transform="matrix(1 0 0 -1 0 270)">
+        <g>
+          <g opacity=".5">
+            <path fill="rgb(255,133,56)" fill-rule="evenodd" d="M443.78936332-6.5300873L417.3848153 126.7575106s-75.37594093 100.19617626-128.83182089-11.74384385C235.09711445 3.07364663 185.74198064 21.8567957 119.35718014 52.50326835c-66.3848005 30.64647266-176.82173272-94.89451089-37.48788855-219.9299641C221.20313577-292.46214897 290.947859-317.51677363 290.947859-317.51677363L443.78936332-6.5300873z"/>
+          </g>
+          <g opacity=".4">
+            <path fill="rgb(253,186,69)" fill-rule="evenodd" d="M-65.52775043 277.5522533l35.63805126-131.12098695s82.1817696-94.6940492 127.69876014 20.70223662c45.51699054 115.3962858 96.06216153 100.10178967 164.42307165 74.16081838 68.36091012-25.9409713 169.77137455 106.99800813 22.05477624 222.009274C136.57031055 578.31486124 65.24773659 598.44322624 65.24773659 598.44322624L-65.52775043 277.55225329z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

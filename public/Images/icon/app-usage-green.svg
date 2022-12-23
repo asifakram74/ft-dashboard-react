@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <ellipse id="ellipse-6" cx="12.943" cy="12.922" rx=".849" ry=".849"/>
+    <mask id="mask-7" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="32" height="32" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-6"/>
+    </mask>
+    <ellipse id="ellipse-8" cx="18.887" cy="8.677" rx=".849" ry=".849"/>
+    <mask id="mask-9" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="32" height="32" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-8"/>
+    </mask>
+    <ellipse id="ellipse-10" cx="23.981" cy="12.922" rx=".849" ry=".849"/>
+    <mask id="mask-11" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="32" height="32" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-10"/>
+    </mask>
+    <ellipse id="ellipse-12" cx="7.849" cy="16.318" rx=".849" ry=".849"/>
+    <mask id="mask-13" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="32" height="32" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-12"/>
+    </mask>
+  </defs>
+  <g>
+    <g opacity=".15">
+      <ellipse cx="16" cy="16" fill="rgb(0,218,135)" rx="16" ry="16"/>
+    </g>
+    <g>
+      <rect width="1.443" height="5.094" x="7.425" y="19.078" fill="rgb(0,218,135)"/>
+      <rect width="1.443" height="7.642" x="12.519" y="16.531" fill="rgb(0,218,135)"/>
+      <rect width="1.443" height="10.189" x="18.462" y="13.983" fill="rgb(0,218,135)"/>
+      <rect width="1.443" height="8.278" x="23.557" y="15.894" fill="rgb(0,218,135)"/>
+      <use fill-opacity="0" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" mask="url(#mask-7)" xlink:href="#ellipse-6"/>
+      <use fill-opacity="0" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" mask="url(#mask-9)" xlink:href="#ellipse-8"/>
+      <use fill-opacity="0" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" mask="url(#mask-11)" xlink:href="#ellipse-10"/>
+      <use fill-opacity="0" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" mask="url(#mask-13)" xlink:href="#ellipse-12"/>
+      <path fill="none" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" d="M19.52357298 8.67688262l3.82075108 3.82075108"/>
+      <path fill="none" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" d="M8.48584764 15.89385688l3.82075108-2.54716738"/>
+      <path fill="none" stroke="rgb(0,218,135)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width=".5" d="M13.58018241 12.4976337l4.66980688-3.39622318"/>
+    </g>
+  </g>
+</svg>

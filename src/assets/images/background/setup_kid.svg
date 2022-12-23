@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="767" height="424" viewBox="0 0 767 424">
+  <defs>
+    <linearGradient id="linearGradient-2" x1="743.99" x2="99.71" y1="-8.48" y2="580.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(0,140,255)"/>
+      <stop offset="1" stop-color="rgb(0,53,186)"/>
+    </linearGradient>
+    <path id="path-3" fill-rule="evenodd" d="M0 24C0 10.745166 10.745166 0 24 0h719c13.254834 0 24 10.745166 24 24v400H0V24z"/>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="767" height="424" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-3"/>
+    </mask>
+  </defs>
+  <g>
+    <path fill="url(#linearGradient-2)" fill-rule="evenodd" d="M0 24C0 10.745166 10.745166 0 24 0h719c13.254834 0 24 10.745166 24 24v400H0V24z" transform="matrix(1 0 0 -1 0 424)"/>
+    <g>
+      <use fill="none" transform="matrix(1 0 0 -1 0 424)" xlink:href="#path-3"/>
+      <g mask="url(#mask-4)" transform="matrix(1 0 0 -1 0 424)">
+        <g>
+          <g opacity=".3">
+            <path fill="rgb(0,140,255)" fill-rule="evenodd" d="M-27.63548237 539.10328537s5.26953365-175.49376927 18.80808891-241.09634596c13.53855526-65.6025767 113.31843428-200.4408853 232.6124712-24.11303446 119.29403693 176.32785084 203.4543823 126.5713519 315.50870926 50.27964368 112.05432697-76.29170822 336.01897811 104.00181144 113.74566129 369.78868032-222.27331682 265.78686887-341.51857086 333.50876827-341.51857086 333.50876827l-339.1563598-488.36771185z"/>
+          </g>
+          <g opacity=".3">
+            <path fill="rgb(0,140,255)" fill-rule="evenodd" d="M860.08881588-85.11304365l-39.749457 238.53966738S689.9825553 343.22841456 586.5104588 157.1743808C483.03836233-28.87965294 394.86170654 13.35244734 276.58451755 79.58766079c-118.27718898 66.23521345-325.67596518-132.89204693-81.0836058-378.29511287 244.59235937-245.40306595 369.28620344-302.4743505 369.28620344-302.4743505L860.08881588-85.11304364z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

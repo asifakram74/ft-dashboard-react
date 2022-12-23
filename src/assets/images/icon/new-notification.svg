@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="21.377" viewBox="0 0 56 21.377">
+  <defs>
+    <rect id="rect-1" width="56" height="21.377" x="0" y="0"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="56" height="21.377" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-1"/>
+    </mask>
+    <linearGradient id="linearGradient-4" x1="77.28" x2=".56" y1="11.971" y2="11.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,178,75)"/>
+      <stop offset="1" stop-color="rgb(228,35,118)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <use fill="none" xlink:href="#rect-1"/>
+    <g mask="url(#mask-2)">
+      <path fill="url(#linearGradient-4)" fill-rule="evenodd" d="M10.68853513 0h34.62292974C51.210628 0 56 4.789372 56 10.68853513s-4.789372 10.68853514-10.68853513 10.68853514H10.68853513C4.789372 21.37707027 0 16.58769827 0 10.68853513 0 4.789372 4.789372 0 10.68853513 0z"/>
+      <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M20.54749298 16.00135803h-1.7400589l-4.73682022-7.75775146h-.04833603v7.74163818H12.25V5.37573242h1.77227783l4.71265412 7.74969483h.07250213V5.37573242h1.764225l-.0241661 10.62562561zm8.51908875-4.7770996h-4.63209534v3.35926818h5.38934326v1.41783142h-7.1616211V5.37573243h7.11328889v1.3936615h-5.34101105v2.99676513h4.63209534v1.45809936zm5.5642395 1.9897766l2.11867523-7.77384948h1.42588043l2.1509018 7.77384948 1.68367004-7.77384948H43.75l-2.51341248 10.56117248h-1.61116027l-2.1267395-7.62080383h-.04027558l-2.13478851 7.62080383h-1.61116791l-2.52952576-10.6256256h1.74811554l1.6997757 7.8383026z"/>
+    </g>
+  </g>
+</svg>

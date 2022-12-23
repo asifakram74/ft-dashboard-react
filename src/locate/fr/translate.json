@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "inputFields": {
+      "Email": "E-mail",
+      "Password": "Mot de Passe"
+    },
+    "errors": {
+      "Email Field is Required": "Le champ d'e-mail est obligatoire",
+      "Maximum of 50 characters are allowed": "Un maximum de 50 caractères est autorisé",
+      "Input a Valid Email Address": "Saisissez une adresse e-mail valide",
+      "Password Field is Required": "Le champ du mot de passe est obligatoire",
+      "There must be Minimum of 4 Characters": "Il doit y avoir au moins 4 caractères",
+      "Maximum of 30 Characters are allowed": "Un maximum de 30 caractères est autorisé",
+      "Maximum of 20 Characters are allowed": "Un maximum de 20 caractères est autorisé",
+      "Minimum of 13 Characters are allowed": "Un minimum de 13 caractères est autorisé",
+
+      "Name Field is Required": "Le champ de nom est obligatoire",
+      "Phone Field is Required": "Le champ de téléphone est obligatoire",
+      "Relationship Field is Required": "Le champ Relation est obligatoire",
+      "Language Field is Required": "Le champ de langue est obligatoire"
+    },
+    "success": {
+      "Successful!": "À succès!",
+      "Your Password has been changed successfully!": "Votre mot de passe a été changé avec succès!"
+    },
+    "menu": {
+      "Home": "Domicile",
+      "Notifications": "Notifications",
+      "Parents": "Père et Mère",
+      "Account": "Compte",
+      "Rate Us": "Évaluez nous",
+      "Help Desk": "bureau d'aide",
+      "Terms of Use": "Conditions d'utilisation",
+      "Privacy Policy": "Politique de confidentialité",
+      "Data Collections & Use": "Collecte et utilisation des données",
+      "Settings": "Paramètres",
+      "Help & Feedback": "Aide et Commentaires",
+      "Logout": "Se déconnecter"
+    },
+    "text": {
+      "Hello": "Bonjour",
+      "Good Morning": "Bonjour",
+      "Good Afternoon": "Bonne Après-midi",
+      "Good Evening": "Bonne Soirée",
+      "Good Night": "Bonne Nuit"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g>
+    <path fill="rgb(232,232,232)" fill-rule="evenodd" d="M8.5.5h15c4.4153202 0 8 3.5846798 8 8v15c0 4.4153202-3.5846798 8-8 8h-15c-4.4153202 0-8-3.5846798-8-8v-15c0-4.4153202 3.5846798-8 8-8z"/>
+    <text font-size="0" style="white-space:pre" fill="rgb(174,174,174)">
+      <tspan x="7.212" y="21.159" font-family="Roboto Medium" font-size="14" font-weight="500" style="white-space:pre;text-transform:uppercase">SU</tspan>
+    </text>
+  </g>
+</svg>
